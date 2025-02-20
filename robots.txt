@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://gc-na.github.io/sitemap.xml
+Sitemap: http://dashwiki.github.io/sitemap.xml
