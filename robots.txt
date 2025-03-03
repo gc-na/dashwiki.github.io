@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+<<<<<<< HEAD
 Sitemap: https://dashwiki.github.io/sitemap.xml
+=======
+Sitemap: http://dashwiki.github.io/sitemap.xml
+>>>>>>> 131d0958a961181f6f4218ff4f9a18856937018f
